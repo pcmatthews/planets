@@ -1,0 +1,3 @@
+# planets
+
+This is a simple repository to get a grip with GitHub.  Don't expect it to last...
