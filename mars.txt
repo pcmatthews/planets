@@ -7,3 +7,5 @@ Good for rock collecting
 (and this is a thought I had on the web...)
 
 (and this is now a line back on my machine)
+
+a conflicting line added by Pete
